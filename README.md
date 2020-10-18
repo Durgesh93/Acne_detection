@@ -5,8 +5,10 @@ The directory structure for the project is as follows
 
 .
 ├── acne_detection_opencv.ipynb
+|
 ├── data
 │   ├── acne_mild.jpg
+|   |
 │   ├── acne_severe.jpg
 │   └── acne_zero.jpg
 ├── models
