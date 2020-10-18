@@ -3,17 +3,15 @@
 
 The directory structure for the project is as follows
 
-.
-├── acne_detection_opencv.ipynb
-|
-├── data
-│   ├── acne_mild.jpg
-|   |
-│   ├── acne_severe.jpg
-│   └── acne_zero.jpg
-├── models
-│   └── shape_predictor_81_face_landmarks.dat
-└── README.md
+
+1. acne_detection_opencv.ipynb
+2. data
+  1. acne_mild.jpg
+  2. acne_severe.jpg
+  3.  acne_zero.jpg
+4. models
+   1. shape_predictor_81_face_landmarks.dat
+5. README.md
 
 
 
